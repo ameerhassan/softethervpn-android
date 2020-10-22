@@ -1,0 +1,13 @@
+-- Check for working C compiler: E:/Android/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+-- Check for working C compiler: E:/Android/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- The ASM compiler identification is Clang
+-- Found assembler: E:/Android/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+-- Build date: 22/10/2020
+-- Build time: 10:00:45
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/debug/x86_64

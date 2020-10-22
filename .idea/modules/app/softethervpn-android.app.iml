@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="softethervpn-android" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.3.2" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.3.2" />
+      </configuration>
+    </facet>
+    <facet type="native-android-gradle" name="Native-Android-Gradle">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug-x86" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/iconv/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/iconv/libcharset/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/ncurses/ncurses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/ncurses/ncurses/base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/ncurses/ncurses/tinfo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/ncurses/ncurses/trace" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/ncurses/ncurses/tty" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/aes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/aria" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/asn1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/async" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/async/arch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/bf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/bio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/blake2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/bn" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/buffer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/chacha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/cmac" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/cms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/comp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/conf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/ct" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/des" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/dh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/dsa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/dso" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/ec" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/ec/curve448" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/ec/curve448/arch_32" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/engine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/err" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/evp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/hmac" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/kdf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/lhash" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/md4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/md5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/modes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/ocsp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/pem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/pkcs7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/pkcs12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/poly1305" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/rand" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/rc2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/rc4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/rsa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/sha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/siphash" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/sm2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/sm3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/sm4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/srp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/store" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/ts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/txt_db" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/x509" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/crypto/x509v3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/ssl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/ssl/record" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/openssl/ssl/statem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/readline" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/SoftEtherVPN/src/Cedar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/SoftEtherVPN/src/hamcorebuilder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/SoftEtherVPN/src/Mayaqua" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/SoftEtherVPN/src/vpnclient" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp/SoftEtherVPN/src/vpncmd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/sevpnassets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/cpp" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.cxx" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.externalNativeBuild" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.android.support:collections:28.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:common:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.core:common:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:28.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-solver:2.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout:2.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-fragment:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-ui:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-utils:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:loader:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:viewpager:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:coordinatorlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:drawerlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:slidingpanelayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:customview:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:swiperefreshlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:asynclayoutinflater:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-compat:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:versionedparcelable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:cursoradapter:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:documentfile:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:localbroadcastmanager:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:print:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:viewmodel:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:livedata:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:livedata-core:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.core:runtime:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:interpolator:28.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.sf.kxml:kxml2:2.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup:javawriter:2.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test.espresso:espresso-core:3.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test:runner:1.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test:monitor:1.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test.espresso:espresso-idling-resource:3.0.2@aar" level="project" />
+  </component>
+</module>

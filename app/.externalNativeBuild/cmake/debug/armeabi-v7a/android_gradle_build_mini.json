@@ -1,0 +1,70 @@
+{
+  "buildFiles": [
+    "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "crypto-Debug-armeabi-v7a": {
+      "artifactName": "crypto",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target crypto",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\libcrypto.a"
+    },
+    "mayaqua-Debug-armeabi-v7a": {
+      "artifactName": "mayaqua",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target mayaqua",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\libmayaqua.a"
+    },
+    "ssl-Debug-armeabi-v7a": {
+      "artifactName": "ssl",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target ssl",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\libssl.a"
+    },
+    "cedar-Debug-armeabi-v7a": {
+      "artifactName": "cedar",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target cedar",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\libcedar.a"
+    },
+    "iconv-Debug-armeabi-v7a": {
+      "artifactName": "iconv",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target iconv",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\libiconv.a"
+    },
+    "vpncmd-Debug-armeabi-v7a": {
+      "artifactName": "vpncmd",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target vpncmd",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\vpncmd"
+    },
+    "hamcorebuilder-Debug-armeabi-v7a": {
+      "artifactName": "hamcorebuilder",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target hamcorebuilder",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\hamcorebuilder"
+    },
+    "vpnclient-Debug-armeabi-v7a": {
+      "artifactName": "vpnclient",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target vpnclient",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\vpnclient"
+    },
+    "readline-Debug-armeabi-v7a": {
+      "artifactName": "readline",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target readline",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\libreadline.a"
+    },
+    "ncurses-Debug-armeabi-v7a": {
+      "artifactName": "ncurses",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target ncurses",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\libncurses.a"
+    }
+  }
+}

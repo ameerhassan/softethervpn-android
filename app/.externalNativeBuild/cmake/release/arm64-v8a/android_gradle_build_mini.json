@@ -1,0 +1,70 @@
+{
+  "buildFiles": [
+    "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "cedar-Release-arm64-v8a": {
+      "artifactName": "cedar",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target cedar",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\libcedar.a"
+    },
+    "ssl-Release-arm64-v8a": {
+      "artifactName": "ssl",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target ssl",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\libssl.a"
+    },
+    "crypto-Release-arm64-v8a": {
+      "artifactName": "crypto",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target crypto",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\libcrypto.a"
+    },
+    "hamcorebuilder-Release-arm64-v8a": {
+      "artifactName": "hamcorebuilder",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target hamcorebuilder",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\hamcorebuilder"
+    },
+    "vpnclient-Release-arm64-v8a": {
+      "artifactName": "vpnclient",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target vpnclient",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\vpnclient"
+    },
+    "ncurses-Release-arm64-v8a": {
+      "artifactName": "ncurses",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target ncurses",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\libncurses.a"
+    },
+    "vpncmd-Release-arm64-v8a": {
+      "artifactName": "vpncmd",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target vpncmd",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\vpncmd"
+    },
+    "iconv-Release-arm64-v8a": {
+      "artifactName": "iconv",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target iconv",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\libiconv.a"
+    },
+    "mayaqua-Release-arm64-v8a": {
+      "artifactName": "mayaqua",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target mayaqua",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\libmayaqua.a"
+    },
+    "readline-Release-arm64-v8a": {
+      "artifactName": "readline",
+      "buildCommand": "E:\\Android\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target readline",
+      "abi": "arm64-v8a",
+      "output": "E:\\Github\\SoftetherVPN\\softethervpn-android\\softethervpn-android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a\\libreadline.a"
+    }
+  }
+}

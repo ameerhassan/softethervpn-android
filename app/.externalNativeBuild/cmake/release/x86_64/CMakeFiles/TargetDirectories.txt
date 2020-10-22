@@ -1,0 +1,13 @@
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/vpnclient.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/crypto.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/ssl.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/ncurses.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/mayaqua.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/readline.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/iconv.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/cedar.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/hamcorebuilder.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/vpncmd.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/makeassetdir.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir

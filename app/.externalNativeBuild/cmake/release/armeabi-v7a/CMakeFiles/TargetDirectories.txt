@@ -1,0 +1,13 @@
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/vpnclient.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/crypto.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/ssl.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/ncurses.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/mayaqua.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/readline.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/iconv.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/cedar.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/hamcorebuilder.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/vpncmd.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/makeassetdir.dir
+E:/Github/SoftetherVPN/softethervpn-android/softethervpn-android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir

@@ -1,0 +1,14 @@
+Executable : E:\Android\android-sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HE:\Github\SoftetherVPN\softethervpn-android\softethervpn-android\app\src\main\cpp
+-BE:\Github\SoftetherVPN\softethervpn-android\softethervpn-android\app\.externalNativeBuild\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\Github\SoftetherVPN\softethervpn-android\softethervpn-android\app\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=E:\Android\android-sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=E:\Android\android-sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=E:\Android\android-sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+
